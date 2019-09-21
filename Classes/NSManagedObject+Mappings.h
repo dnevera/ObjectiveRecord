@@ -36,7 +36,7 @@
 
  @see +[NSManagedObject mappings]
 
- @param key     A remote (server) attribute name.
+ @param remoteKey     A remote (server) attribute name.
  @param context A local managed object context.
 
  @return A local (Core Data) attribute name.
